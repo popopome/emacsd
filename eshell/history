@@ -1,0 +1,42 @@
+ls
+cd ..
+ls
+cd ..
+ls
+lein repl
+ls
+cd ..
+ls
+./app.bat
+ls
+cd ..
+ls
+app
+./app.bat
+tail
+ls 
+ls -la
+tail -f 2016-03-27-langsvc.txt 
+tail 
+tail --help
+ls -la
+tail -f 2016-03-27-langsvc.txt --retries
+tail -f 2016-03-27-langsvc.txt --retry
+ls -la
+tail -f 2016-03-27-langsvc.txt --retry
+ls
+ls -la
+tail -f 2016-03-28-langsvc.txt --retry
+ls -la
+tail -f 2016-03-28-langsvc.txt --retry
+ls
+cd ~/.emacs.d/snippets
+ls
+ls -la
+mkdir clojure-mode
+cd clojure-mode
+ls
+cd ..
+ls
+mv clojure-mode clojurescript-mode
+exit

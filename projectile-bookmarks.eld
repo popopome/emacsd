@@ -1,0 +1,1 @@
+("~/.emacs.d/" "d:/prjs/ffan/maker/maker/maker_langsvc/" "d:/prjs/ffan/maker/" "d:/prjs/open_sources/atom-ide-flow/")

@@ -1,0 +1,41 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Mar 26 02:41:52 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22262 22880 662000 0) (desktop . "206") "popop@DESKTOP-EJV4NMF" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Lucida Grande Mono-normal-normal-normal-mono-11-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 11) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (fullscreen) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (environment) (frameset--id . "9169-160D-BE69-CD9A") (frameset--mini t . t) (height . 57) (width . 93) (modeline . t) (minibuffer . t) (unsplittable) (left . 2110) (top . 17) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 104) (min-pixel-width . 70) (min-pixel-height-ignore . 52) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 26) (min-pixel-width-safe . 14)) vc (pixel-width . 689) (pixel-height . 728) (total-width . 98) (total-height . 56) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 689) (pixel-height . 564) (total-width . 98) (total-height . 43) (normal-height . 0.7736625514403292) (normal-width . 1.0) (buffer "flow_service.cljs" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 17 3 t nil) (vscroll . 0) (dedicated) (point . 2076) (start . 1573))) (leaf (last . t) (pixel-width . 689) (pixel-height . 164) (total-width . 98) (total-height . 13) (normal-height . 0.22633744855967092) (normal-width . 1.0) (buffer "*cider-repl maker_langsvc*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 17 3 t nil) (vscroll . 0) (dedicated) (point . 3548) (start . 3222)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs" "d:/prjs/ffan/maker/maker/maker_langsvc/src/maker/flow_service.cljs" "~/.emacs.d/elpa/desktop+-20151004.1240/desktop+-autoloads.el" "~/.emacs.d/elpa/f-20160306.447/f-autoloads.el" "~/.emacs.d/elpa/s-20160313.2240/s-autoloads.el" "~/.emacs.d/elpa/use-package-20160226.1618/use-package-autoloads.el" "~/.emacs.d/elpa/bind-key-20160227.48/bind-key-autoloads.el" "~/.emacs.d/elpa/diminish-20151215.915/diminish-autoloads.el" "~/.emacs.d/elpa/wrap-region-20140116.2320/wrap-region-autoloads.el" "~/.emacs.d/elpa/cider-eval-sexp-fu-20150320.2015/cider-eval-sexp-fu-autoloads.el" "~/.emacs.d/elpa/eval-sexp-fu-20131230.1351/eval-sexp-fu-autoloads.el" "~/.emacs.d/elpa/highlight-20151231.1337/highlight-autoloads.el" "d:/prjs/ffan/maker/maker/maker_langsvc/src/maker/language_service.cljs" "~/.emacs.d/elpa/rainbow-delimiters-20150320.17/rainbow-delimiters-autoloads.el" "~/.emacs.d/libs/parinfer-mode/parinfer-mode.el" "~/.emacs.d/elpa/smartparens-20160324.1541/smartparens-autoloads.el" "~/.emacs.d/elpa/dash-20160306.1222/dash-autoloads.el" "~/.emacs.d/elpa/helm-company-20151216.9/helm-company-autoloads.el" "~/.emacs.d/elpa/company-20160325.1650/company-autoloads.el" "d:/prjs/ffan/maker/maker/maker_langsvc/project.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "d:/prjs/ffan/maker/maker/maker_langsvc/src/maker/flow_service.cljs"
+  "flow_service.cljs"
+  'clojurescript-mode
+  '(helm-mode override-global-mode cider-mode smartparens-mode projectile-mode company-mode)
+  2076
+  '(1996 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "c:/Users/popop/AppData/Roaming/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(helm-mode override-global-mode smartparens-mode wrap-region-mode projectile-mode)
+  3639
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+

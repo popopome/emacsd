@@ -1,0 +1,19 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Mar 26 01:58:58 2016
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22262 20306 648000 0) (desktop . "206") "popop@DESKTOP-EJV4NMF" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Lucida Grande Mono-normal-normal-normal-mono-11-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#ffffff") (background-color . "#263238") (mouse-color . "black") (border-color . "#37474f") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 11) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (fullscreen) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 17) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (environment) (frameset--id . "BB39-8372-F464-670A") (frameset--mini t . t) (height . 38) (width . 80) (modeline . t) (minibuffer . t) (unsplittable) (left . 2148) (top . 211) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 52) (min-pixel-width . 70) (min-pixel-height-ignore . 26) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 13) (min-pixel-width-safe . 14)) leaf (pixel-width . 598) (pixel-height . 481) (total-width . 85) (total-height . 37) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 17 3 t nil) (vscroll . 0) (dedicated) (point . 192) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:

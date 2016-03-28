@@ -1,0 +1,20 @@
+;;; -*- coding: utf-8 -*-
+(("d:/prjs/ffan/maker/maker/maker_langsvc/src/maker/flow_service.cljs" . 4326)
+ ("c:/Users/popop/AppData/Roaming/.emacs" . 4847)
+ ("c:/Users/popop/AppData/Roaming/.emacs.d/recentf" . 1849)
+ ("c:/Users/popop/AppData/Roaming/.emacs.d/snippets/clojure-mode/prv" . 38)
+ ("c:/Users/popop/AppData/Roaming/FramerPad/log/2016-03-27-renderer.txt" . 120120)
+ ("d:/prjs/ffan/maker/maker/"
+  (dired-filename . "d:/prjs/ffan/maker/maker/out_langsvc"))
+ ("d:/prjs/ffan/maker/maker/out_langsvc/out/figwheel/"
+  (dired-filename . "d:/prjs/ffan/maker/maker/out_langsvc/out/figwheel/client.js"))
+ ("d:/prjs/ffan/maker/maker/out_langsvc/out/figwheel/client.js" . 29957)
+ ("c:/Users/popop/AppData/Roaming/.emacs.d/elpa/expand-region-20150902.558/expand-region-autoloads.el" . 3482)
+ ("d:/prjs/ffan/maker/maker/out_langsvc/out/"
+  (dired-filename . "d:/prjs/ffan/maker/maker/out_langsvc/out/.."))
+ ("d:/prjs/ffan/maker/maker/out_langsvc/"
+  (dired-filename . "d:/prjs/ffan/maker/maker/out_langsvc/maker_langsvc.js"))
+ ("d:/prjs/ffan/maker/maker/out_langsvc/maker_langsvc.js" . 916)
+ ("d:/prjs/ffan/maker/maker/out_langsvc/out/figwheel/connect.js" . 490)
+ ("d:/prjs/ffan/maker/maker/out_langsvc/out/maker/flow_service.js" . 12941)
+ ("d:/prjs/open_sources/atom-ide-flow/" . 856))
